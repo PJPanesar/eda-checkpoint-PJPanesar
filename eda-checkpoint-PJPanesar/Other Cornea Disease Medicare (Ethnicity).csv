@@ -1,0 +1,8 @@
+YearStart,YearEnd,LocationAbbr,LocationDesc,CountyName,DataSource,Topic,Category,Question,Response,Age,Sex,Race_Ethnicity,Risk_Factor,Risk_Factor_Repsonse,Data_Value_Unit,Data_Value_Type,Data_Value,Data_Value_Footnote_Symbol,Data_Value_Footnote,Low_Confidence_Limit,High_Confidence_Limit,Sample_Size
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed cornea disorders,All Cornea disorders,All Ages,Both sexes,North American Native,All patients,Total,%,Crude Prevalence,1.99,,,1.37,2.8,30
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed cornea disorders,All Cornea disorders,All Ages,Both sexes,All races,All patients,Total,%,Crude Prevalence,3.36,,,3.33,3.4,36510
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed cornea disorders,All Cornea disorders,All Ages,Both sexes,Asian,All patients,Total,%,Crude Prevalence,2.37,,,2.07,2.7,220
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed cornea disorders,All Cornea disorders,All Ages,Both sexes,"Black, non-Hispanic",All patients,Total,%,Crude Prevalence,2.27,,,2.17,2.36,2180
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed cornea disorders,All Cornea disorders,All Ages,Both sexes,"Hispanic, any race",All patients,Total,%,Crude Prevalence,2.08,,,1.85,2.33,290
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed cornea disorders,All Cornea disorders,All Ages,Both sexes,Other,All patients,Total,%,Crude Prevalence,2.7,,,2.2,3.28,100
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed cornea disorders,All Cornea disorders,All Ages,Both sexes,"White, non-Hispanic",All patients,Total,%,Crude Prevalence,3.51,,,3.47,3.54,33690

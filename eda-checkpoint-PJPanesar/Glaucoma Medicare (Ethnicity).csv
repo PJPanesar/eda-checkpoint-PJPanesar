@@ -1,0 +1,8 @@
+YearStart,YearEnd,LocationAbbr,LocationDesc,CountyName,DataSource,Topic,Category,Question,Response,Age,Sex,Race_Ethnicity,Risk_Factor,Risk_Factor_Repsonse,Data_Value_Unit,Data_Value_Type,Data_Value,Data_Value_Footnote_Symbol,Data_Value_Footnote,Low_Confidence_Limit,High_Confidence_Limit,Sample_Size,FootnoteText,Url,FootnoteType
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed glaucoma,All Glaucoma,All Ages,Both sexes,Asian,All patients,Total,%,Crude Prevalence,13.75,,,13.05,14.47,1270,,,
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed glaucoma,All Glaucoma,All Ages,Both sexes,"White, non-Hispanic",All patients,Total,%,Crude Prevalence,11.23,,,11.16,11.29,107900,,,
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed glaucoma,All Glaucoma,All Ages,Both sexes,Other,All patients,Total,%,Crude Prevalence,14.71,,,13.58,15.9,540,,,
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed glaucoma,All Glaucoma,All Ages,Both sexes,"Hispanic, any race",All patients,Total,%,Crude Prevalence,11.15,,,10.64,11.69,1570,,,
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed glaucoma,All Glaucoma,All Ages,Both sexes,North American Native,All patients,Total,%,Crude Prevalence,8.89,,,7.55,10.39,140,,,
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed glaucoma,All Glaucoma,All Ages,Both sexes,"Black, non-Hispanic",All patients,Total,%,Crude Prevalence,16.71,,,16.48,16.95,16080,,,
+2022,2022,MO,Missouri,,Medicare FFS MA,,,Annual prevalence of diagnosed glaucoma,All Glaucoma,All Ages,Both sexes,All races,All patients,Total,%,Crude Prevalence,11.74,,,11.68,11.8,127500,,,
